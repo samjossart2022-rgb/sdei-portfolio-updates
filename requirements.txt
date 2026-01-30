@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+pandas==2.2.2
+requests==2.32.3
+python-dotenv==1.0.1
+gspread==6.1.4
+google-auth==2.35.0
+pyyaml==6.0.2
+streamlit==1.39.0
+yagmail==0.15.293

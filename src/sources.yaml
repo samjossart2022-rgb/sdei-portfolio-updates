@@ -1,0 +1,38 @@
+# Add or remove sources here. Type can be: funding, hire, launch, award, general
+# 'county' and 'sector' can be set if the source is scoped; otherwise leave blank.
+sources:
+  sources:
+    - name: "SiouxFalls.Business – Startups"
+      type: "press"
+      parser: "press_generic"
+      url: "https://www.siouxfalls.business/category/startups/"
+      county: "Minnehaha"
+      sector: "Startup"
+
+    - name: "Startup Sioux Falls – News"
+      type: "press"
+      parser: "press_generic"
+      url: "https://www.startupsiouxfalls.com/news/"
+      county: "Minnehaha"
+      sector: "Startup"
+
+    - name: "Elevate Rapid City – News"
+      type: "press"
+      parser: "press_generic"
+      url: "https://elevaterapidcity.com/news"
+      county: "Pennington"
+      sector: "Startup"
+
+    - name: "SD GOED – News"
+      type: "press"
+      parser: "press_generic"
+      url: "https://sdgoed.com/news/"
+      county: "Statewide"
+      sector: "EconDev"
+
+    - name: "U.S. SBA – Press Releases"
+      type: "press"
+      parser: "press_generic"
+      url: "https://www.sba.gov/about-sba/sba-newsroom/press-releases"
+      county: "Federal"
+      sector: "Grants"
